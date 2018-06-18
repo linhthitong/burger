@@ -2,7 +2,7 @@ USE burgers_db;
 
 INSERT INTO burgers (burger_name, devoured) VALUES ('Big Burger', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Baby Burger', true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Vegetarian Burger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Vegetarian Burger', false);
 
 SELECT * FROM burgers;
 
