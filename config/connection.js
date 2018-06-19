@@ -28,7 +28,7 @@
 
   var mysql = require('mysql');
   var connection;
-  var JAWSDB_URL = "mysql://ej350ibsoo03vkhl:ry9wr80nfiiayugr@j1r4n2ztuwm0bhh5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/a0crr8bjgz5ihkno";
+  var JAWSDB_URL = "mysql://jf991b3lcfbg3rhk:n81wcpta9d9ea9k2@q57yawiwmnaw13d2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/u5iqs6d708wn6pwl";
   
   
   

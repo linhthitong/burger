@@ -1,6 +1,6 @@
 // Import MySQL connection.
 var connection = require("./connection.js");
-console.log(connection)
+
 
 //export orm for use by the model
 var orm = module.exports = {};
